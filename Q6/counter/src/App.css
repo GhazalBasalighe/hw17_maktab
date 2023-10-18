@@ -1,0 +1,21 @@
+body
+{
+    background-color: #202124;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.App
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.heading
+{
+    color: white;
+    text-shadow: 1px 1px plum;
+}
